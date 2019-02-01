@@ -1,0 +1,37 @@
+h1 {
+    color: #EEF5DB;
+}
+
+h6 {
+    color: #FE5F55
+}
+
+#left-col {
+    text-align: center;
+     height:115%;
+    background-color: #172A3A;
+}
+
+h4 {
+    color: #E5E6E4;
+    font-size: 1.5em;
+}
+
+img {
+    border-radius: 50%;
+}
+
+#right-col {
+    background-color: #B8D8D8;
+}
+
+h2 {
+    color: #508991;
+}
+
+li {
+  list-style: none;
+}
+
+
+
